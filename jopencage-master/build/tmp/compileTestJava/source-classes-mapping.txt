@@ -1,8 +1,0 @@
-com/byteowls/jopencage/ModelTests.java
- com.byteowls.jopencage.ModelTests
-com/byteowls/jopencage/BatchGeoCoderTests.java
- com.byteowls.jopencage.BatchGeoCoderTests
-com/byteowls/jopencage/GeoCoderTests.java
- com.byteowls.jopencage.GeoCoderTests
-com/byteowls/jopencage/GeoCoderRequestUriTests.java
- com.byteowls.jopencage.GeoCoderRequestUriTests
