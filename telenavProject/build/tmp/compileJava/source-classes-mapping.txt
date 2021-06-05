@@ -1,0 +1,12 @@
+dictionary/DictionaryCreater.java
+ dictionary.DictionaryCreater
+dictionary/OrderQueries.java
+ dictionary.OrderQueries
+dictionary/CreateDictionary.java
+ dictionary.CreateDictionary
+dictionary/QuerySorter.java
+ dictionary.QuerySorter
+test/TestDictionary.java
+ test.TestDictionary
+test/TestCreateDictionary.java
+ test.TestCreateDictionary
