@@ -1,4 +1,4 @@
-**Instruction**:
+<h1>**Instruction**:</h1>
 
 Under the directory telenavproject/src/main/java, there are two folders containing two different instantiations. 
 One is for dictionary creation and the other is to test its availability. 
