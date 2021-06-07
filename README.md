@@ -6,7 +6,7 @@ There are two interfaces: the dictionary creator aims to create the dictionary f
 
 To make it run in your console with command lines:
 1.  go to the directory containing the jar file
-2.  add the jar into your calsspath: <script>export CLASSPATH=.:{YOUR_PATH_TO_THE_JAR_FILE}</script>
+2.  add the jar into your calsspath: <code>export CLASSPATH=.:{YOUR_PATH_TO_THE_JAR_FILE}</code>
 3.  run  java -cp querySorter.jar querySorter
 4.  follow the prompts to type in the inputs
 5.  output shown
