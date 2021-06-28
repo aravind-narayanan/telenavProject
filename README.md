@@ -1,4 +1,6 @@
-<h1>Instructions:</h1>
+Before running the library, please refer to the design report to get an understanding of the background behind this project as well as the full implementation details.
+
+<h1>Run Instructions:</h1>
 
 Under the directory telenavproject/src/main/java, there are two folders containing two different instantiations. 
 One is for dictionary creation and the other is to test its availability. 
